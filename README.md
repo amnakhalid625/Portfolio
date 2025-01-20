@@ -23,7 +23,7 @@ Welcome to my personal portfolio! 🚀 This project showcases my skills, project
 
 ## 🖼️ Demo
 
-🔗 [Live Portfolio](https://your-portfolio-link.com)  
+🔗 [Live Portfolio](https://amnakhalidportfolio.vercel.app/)  
 
 ![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Screenshot)
 
