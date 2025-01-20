@@ -17,8 +17,7 @@ Welcome to my personal portfolio! 🚀 This project showcases my skills, project
 ## 🛠️ Technologies Used
 
 - **Frontend**: React.js, Tailwind CSS  
-- **Hosting**: Vercel  
-- **Icons & Animations**: Font Awesome, Framer Motion  
+- **Hosting**: Vercel   
 
 ---
 
@@ -41,5 +40,5 @@ Make sure you have these installed:
 ### Installation
 
 1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
+
+git clone https://github.com/yourusername/portfolio.git
