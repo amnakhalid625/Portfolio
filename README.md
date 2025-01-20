@@ -38,9 +38,7 @@ Make sure you have these installed:
 - npm or Yarn  
 
 ### Installation
---
 1. Clone this repository:  
-
 git clone https://github.com/amnakhalid625/Portfolio.git
 
 ---
