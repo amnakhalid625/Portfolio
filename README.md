@@ -16,7 +16,7 @@ Welcome to my personal portfolio! 🚀 This project showcases my skills, project
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: React.js, Tailwind CSS  
+- **Frontend**:  Vite ,React.js, Tailwind CSS  
 - **Hosting**: Vercel   
 
 ---
@@ -41,4 +41,10 @@ Make sure you have these installed:
 
 1. Clone this repository:  
 
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/amnakhalid625/Portfolio.git
+
+### cd portfolio
+
+### npm install
+
+### npm run dev
