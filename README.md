@@ -43,13 +43,11 @@ Make sure you have these installed:
 
 git clone https://github.com/amnakhalid625/Portfolio.git
 
----
-### cd portfolio
 
----
+### Explanation:
+1. **`cd portfolio`**: This command navigates into the project folder.
+2. **`npm install`**: This installs the project dependencies.
+3. **`npm run dev`**: This starts the development server. If you're using frameworks like Next.js or others, this is the typical command to run the project locally. The URL `http://localhost:3000` is where you'll see the project in your browser.
 
-### npm install
+Let me know if you need anything else! 😊
 
----
-
-### npm run dev
