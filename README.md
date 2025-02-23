@@ -25,7 +25,8 @@ Welcome to my personal portfolio! 🚀 This project showcases my skills, project
 
 🔗 [See Demo Portfolio](https://amnakhalidportfolio.vercel.app/)  
 
-![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Screenshot)
+![Portfolio Screenshot](https://raw.githubusercontent.com/amnakhalid625/Portfolio/4c93634c1228c2a4a04c16716058dfec4c0d687c/Screenshot%202025-02-23%20184716.png)
+
 
 ---
 
